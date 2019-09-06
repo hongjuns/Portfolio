@@ -63,19 +63,34 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/phone.jpg"
+        "name":"Drug Search Server",
+        "description":" React +  Spring boot를 이용하여 만든 의약 정보 SPA",
+        "develop_period" : "2019.07.02 ~ 2019.10.04",
+        "link" :"#React #Redux #Spring boot #Jpa #Oracle #Docker #node",
+        "className":"fa fa-github",
+        "url" :"https://github.com/hongjuns/Frontend_Dss_React",
+        "imgurl":"images/dss.jpg",
+        "boolean" : true
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/phone.jpg"
+        "name":"Spring Board",
+        "description":"Spring MVC를 이용하여 만든 게시판",
+        "develop_period" : "2019.01.02 ~ 2019.02.04",
+        "link" :"#Spring #Jstl #Mysql #Mybatis #Bootstrap #Jquery #Tomcat",
+        "className":"fa fa-github",
+        "url" :"https://github.com/hongjuns/SpringMvcBoard",
+        "imgurl":"images/phone.jpg",
+        "boolean" : true
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/phone.jpg"
+        "name":"IOT Project",
+        "description":"Arduino +  Android를 이용하여 만든 IOT 스마트쓰레기통",  
+        "develop_period" : "2018.01.02 ~ 2018.08.04",
+        "link" :"#Arduino #Android #Spring #Mysql ",
+        "className":"",
+        "url" :"",
+        "imgurl":"images/IoT_1.jpeg",
+        "boolean" : false
       },
   
     ],
